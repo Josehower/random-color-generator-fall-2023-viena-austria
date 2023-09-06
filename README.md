@@ -1,6 +1,6 @@
 # Random Color Generator
 
-- The user type
+- Get a random color
 
 ```
 node index.js
@@ -15,7 +15,7 @@ node index.js
 ###############################
 ```
 
-- The user type node index.js <hue>
+- Get a random color by passing an specific hue
 
 ```
 node index.js blue
@@ -30,7 +30,7 @@ node index.js blue
 ###############################
 ```
 
-- The user type node index.js <hue> <luminosity>
+- Get a random color by passing an specific hue and luminosity
 
 ```
 node index.js blue light
